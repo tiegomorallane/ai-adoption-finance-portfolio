@@ -13,7 +13,7 @@ My strength is translating business problems into practical AI supported workflo
 | [Portfolio overview](PORTFOLIO.md) | AI product thinking, workflow architecture, business controls, and production lessons |
 | [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md) | A grounded, human-reviewed AI career workflow |
 | [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | Practical guidance for responsible AI adoption |
-| [60-minute workshop](AI_TRAINING_WORKSHOP.md) | Training design, facilitation, exercises, and evaluation |
+| [Sample 60-minute workshop](AI_TRAINING_WORKSHOP.md) | Workshop structure, exercises, and an evaluation plan |
 | [Role evidence matrix](ROLE_EVIDENCE.md) | Mapping between target roles and demonstrated experience |
 | [Application profile](APPLICATION_PROFILE.md) | Professional positioning and interview narrative |
 
@@ -36,11 +36,11 @@ The commercial source code remains private, but the public case studies explain 
 
 RemoteLaunch helps South African professionals prepare stronger applications for international remote roles.
 
-The verified workflow covers:
+The owner-tested workflow covers:
 
 **CV and profile → job description → grounded application pack → human review → approval → export → application tracker → saved-state reload**
 
-A central design rule is that missing evidence stays visible. The system does not invent qualifications, achievements, software experience, or work authorisation.
+A central design rule is that missing evidence stays visible. The workflow is designed to flag missing evidence rather than invent qualifications, achievements, software experience or work authorisation. Outputs still require human review.
 
 [Read the RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md).
 
@@ -48,7 +48,7 @@ A central design rule is that missing evidence stays visible. The system does no
 
 My finance and advisory work provides direct exposure to SME funding, transaction preparation, lender requirements, customer communication, commercial analysis, and operational risk.
 
-That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance workflows workflows.
+That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance workflows.
 
 ### Apttick
 
@@ -74,6 +74,10 @@ A separate private AI and automation product used to develop practical experienc
 - design human review operating processes;
 - connect AI implementation to commercial outcomes and controls;
 - communicate technical concepts clearly to executives and operational teams.
+
+## Evidence and current limits
+
+I use Codex and Claude Code to assist implementation. My contribution includes product scope, workflow decisions, acceptance criteria, testing and review. Selected owner journeys have been tested in production; that is not evidence of customer adoption or a fully verified payment and fulfilment journey. The workshop is a sample curriculum, not a claim of delivered AI client training.
 
 ## Professional background
 
