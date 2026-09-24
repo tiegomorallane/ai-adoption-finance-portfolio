@@ -1,120 +1,105 @@
-# AI Credit Analyst
+# Tiego Morallane — AI Adoption & Workflow Portfolio
 
-An AI-assisted SME credit assessment platform for analysing borrower financials, calculating core credit ratios, flagging risks, comparing scenarios, and producing a structured credit memo.
+I am a financial-services professional and hands-on AI product builder focused on helping non-technical teams turn AI capability into useful, controlled business workflows.
 
-> **Portfolio context:** This repository is part of my broader AI adoption and automation portfolio. I build practical AI workflows for finance and business users, with an emphasis on human review, explainability, secure data handling, and production-safe implementation.
+> **What this repository is:** a public evidence hub containing sanitised case studies, an AI adoption playbook, sample training material, and an active-development credit-workflow concept. Commercial source repositories remain private.
 
-## Why this project exists
+[View my personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
 
-Traditional SME credit assessment is often slow, document-heavy, and inconsistent. This project demonstrates how modern software and AI can support analysts with repeatable calculations, transparent risk flags, and better decision documentation.
+## Start here
 
-This repository uses synthetic demonstration data only and is not a substitute for professional credit judgement.
+| Evidence | What it demonstrates |
+|---|---|
+| [Portfolio overview](PORTFOLIO.md) | Product thinking, workflow architecture, controls, and production lessons |
+| [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md) | A grounded, human-reviewed AI career workflow |
+| [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | How I explain responsible AI adoption to business teams |
+| [60-minute workshop](AI_TRAINING_WORKSHOP.md) | Training design, exercises, facilitation, and evaluation |
+| [Recruiter profile](APPLICATION_PROFILE.md) | Role positioning, professional bios, and interview summary |
 
-## Portfolio
-
-I am building a practical portfolio around **AI adoption, workflow automation, financial services, and AI-enabled product delivery**.
+## What I have built
 
 ### Mora AI Product Engine — private production project
 
-A configurable AI product platform powering four separate workflows from shared infrastructure:
+A shared platform supporting four AI-enabled workflows:
 
-- **FundReady AI** — evidence-based funding preparation, missing-information analysis, human review, and export.
-- **TenderPilot** — tender requirement extraction, evidence checklists, source-grounded drafting, human review, and export.
-- **ClearMatch** — structured finance intake and manual-review routing.
-- **RemoteLaunch** — guided job-application preparation using a reviewed CV/profile, job description, grounded AI output, interview preparation, tracking, save/resume, and export.
+- **FundReady AI:** evidence-led funding preparation and missing-information analysis.
+- **TenderPilot:** tender requirement extraction, evidence checks, and source-grounded drafting.
+- **ClearMatch:** structured finance intake with consent and protected manual review.
+- **RemoteLaunch:** job-specific application preparation grounded in a reviewed CV and job description.
 
-The production architecture uses Next.js, Supabase Auth/Postgres/Storage, product-scoped entitlements, Row Level Security, server-side AI orchestration, Vercel deployment, and fail-closed payment/fulfilment boundaries.
+Selected owner journeys have been tested in production. The platform uses authenticated access, private storage, product-scoped entitlements, server-side AI orchestration, structured validation, human review, persistence, and export.
 
-The source repository remains private while commercial integrations are still being completed. A public case study is available in [PORTFOLIO.md](PORTFOLIO.md).
+The commercial source repository remains private. [Read the sanitised case study](PORTFOLIO.md).
 
-### RemoteLaunch
+### RemoteLaunch — production-verified owner journey
 
-RemoteLaunch began as a simple digital toolkit for South Africans and emerging-market professionals targeting international remote roles. It later evolved into a guided AI workspace inside the Mora AI Product Engine.
+Verified workflow:
 
-The production owner workflow has been verified through:
+**profile/CV → job description → grounded application pack → human review → approval → export → tracker → saved-state reload**
 
-**profile/CV → job description → grounded AI application pack → human review → approval → export → tracker → saved-state reload**
+The system is designed to surface missing evidence rather than invent qualifications, achievements, software experience, or work authorisation.
 
-The system is designed not to invent qualifications or achievements. Missing evidence and role gaps are surfaced explicitly.
+[Read the RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md).
 
-### Apttick
+### Apttick — private product build
 
-A separate AI/automation project focused on practical workflow and product experimentation. The implementation repository is currently private while the product is being refined.
+A separate AI and automation project used to develop practical experience in product engineering, workflow automation, infrastructure, and secure data boundaries. Its implementation remains private while the product is refined.
 
-### Mora Capital Partners
+### Mora Capital Partners — live commercial context
 
-A live commercial finance/advisory business and website project. It provides the real-world finance context behind several of my AI product experiments.
+My finance and advisory business gives me direct exposure to SME documentation, transaction preparation, funding workflows, customer communication, and operational risk. That domain experience informs FundReady, ClearMatch, TenderPilot, and the credit-workflow concept.
 
-## What I am demonstrating
+## About the “AI Credit Analyst”
 
-Across these projects I am deliberately building evidence in the areas most relevant to AI adoption and automation roles:
+This repository originally began as a concept for an AI-assisted SME credit workflow.
 
-- translating non-technical business problems into AI-enabled workflows;
-- prompt and workflow design;
-- source-grounded structured AI outputs;
-- human-in-the-loop review;
-- hallucination and unsupported-claim controls;
-- authentication, entitlements, and private data boundaries;
-- production deployment and testing;
-- AI-assisted product engineering;
-- commercial experimentation and customer-value testing;
-- explaining AI systems to non-technical stakeholders.
+The intended product would combine deterministic financial calculations, scenario analysis, transparent risk flags, and human-reviewed credit-memo support.
 
-## Planned AI Credit Analyst capabilities
+**Important:** the credit application is not presented as a completed product. Its current capabilities are planned, and the repository presently functions primarily as my public portfolio and training evidence hub.
 
-- Create and manage borrower assessments
-- Capture historical and forecast financial information
-- Calculate profitability, leverage, liquidity, and debt-service metrics
-- Generate transparent rule-based risk flags
-- Compare base, upside, and downside scenarios
-- Generate an AI-assisted draft credit memo
-- Export an assessment report to PDF
-- Maintain an auditable record of assumptions and outputs
+Planned areas include:
 
-## Target users
+- borrower and financial-data capture;
+- profitability, leverage, liquidity, and debt-service metrics;
+- base, upside, and downside scenarios;
+- transparent rule-based risk flags;
+- AI-assisted memo drafting;
+- auditable assumptions and human approval.
 
-- SME credit analysts
-- Private-credit and alternative-finance teams
-- Business bankers
-- Funding advisers
-- Finance professionals evaluating borrower affordability
+## What I can help a team do
 
-## Technology stack
-
-- **Frontend:** Next.js, TypeScript, Tailwind CSS
-- **Backend:** Python, FastAPI, Pydantic
-- **Database:** PostgreSQL
-- **AI layer:** provider-agnostic LLM service
-- **Testing:** Pytest and frontend test tooling
-- **Infrastructure:** Docker, GitHub Actions
+- identify high-value, appropriate AI use cases;
+- turn prompts into repeatable workflows;
+- define evidence and output boundaries;
+- place human review and escalation correctly;
+- test AI outputs for unsupported claims and edge cases;
+- explain AI systems to non-technical stakeholders;
+- connect AI implementation to business outcomes and controls.
 
 ## Responsible AI principles
 
-Across my portfolio I use the same baseline principles:
+1. **AI drafts; humans decide.**
+2. Material claims should be traceable to approved evidence.
+3. Missing information should remain visible rather than be invented.
+4. Sensitive information belongs behind appropriate access controls.
+5. Technical output is not the same as a validated business outcome.
+6. Product claims must distinguish verified functionality from planned work.
 
-1. **AI drafts, humans decide.**
-2. **Source evidence should remain traceable where factual claims matter.**
-3. **Unknown or unsupported claims should fail closed rather than be silently invented.**
-4. **Sensitive data should stay behind appropriate access controls.**
-5. **A working model output is not the same as a validated business outcome.**
-6. **Customer-facing promises should distinguish what the system controls from external decisions.**
+## Roles I am targeting
 
-## AI training / coaching portfolio
+- AI Trainer / AI Coach
+- AI Adoption Specialist
+- AI Workflow or Automation Consultant
+- AI Implementation Specialist
+- AI Evaluator
+- AI Product Operations
+- AI Solutions Consultant
+- Financial-services AI Enablement
 
-I am also packaging these implementation lessons into practical training material for non-technical teams, especially in financial services.
-
-See the [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) and [60-minute workshop](AI_TRAINING_WORKSHOP.md) for sample executive-oriented training material.
-
-For recruiters, [APPLICATION_PROFILE.md](APPLICATION_PROFILE.md) contains my target-role positioning, short bios, CV portfolio line, and interview summary.
-
-## Author
-
-Built by **Tiego Morallane** as part of a finance and AI engineering portfolio focused on practical AI adoption, automation, and business workflow design.
+## Contact
 
 - [Personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
-- [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md)
-- [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md)
+- [Email](mailto:tiego.morallane@gmail.com)
+- [Mora Capital Partners](https://www.moracapitalpartners.com/)
 
-## Status
-
-🚧 Active development — portfolio projects are at different stages. Production-verified evidence is explicitly distinguished from planned capability and commercial validation.
+Built by **Tiego Morallane** in Johannesburg, South Africa. Available for remote international opportunities.
