@@ -15,12 +15,13 @@ I am a financial-services professional and hands-on AI product builder focused o
 | [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | How I explain responsible AI adoption to business teams |
 | [60-minute workshop](AI_TRAINING_WORKSHOP.md) | Training design, exercises, facilitation, and evaluation |
 | [Recruiter profile](APPLICATION_PROFILE.md) | Role positioning, professional bios, and interview summary |
+| [Role evidence matrix](ROLE_EVIDENCE.md) | Direct mapping from target-role requirements to portfolio proof |
 
 ## What I have built
 
-### Mora AI Product Engine — private production project
+### Mora Automates / Mora AI Product Engine — private production portfolio
 
-A shared platform supporting four AI-enabled workflows:
+Through **Mora Automates**, I design AI-native business systems. The core product portfolio is built on a shared **Mora AI Product Engine** supporting four AI-enabled workflows:
 
 - **FundReady AI:** evidence-led funding preparation and missing-information analysis.
 - **TenderPilot:** tender requirement extraction, evidence checks, and source-grounded drafting.
