@@ -19,10 +19,9 @@ I combine banking, project delivery, behavioural economics, and hands-on AI prod
 
 ## Portfolio links
 
-- **Portfolio:** https://tiego-ai-portfolio.monty08.chatgpt.site
-- **GitHub evidence hub:** https://github.com/tiegomorallane/ai-credit-analyst
-- **AI Adoption Playbook:** https://github.com/tiegomorallane/ai-credit-analyst/blob/main/AI_ADOPTION_PLAYBOOK.md
-- **RemoteLaunch case study:** https://github.com/tiegomorallane/ai-credit-analyst/blob/main/REMOTELAUNCH_CASE_STUDY.md
+- **GitHub evidence hub:** https://github.com/tiegomorallane/ai-adoption-finance-portfolio
+- **AI Adoption Playbook:** https://github.com/tiegomorallane/ai-adoption-finance-portfolio/blob/main/AI_ADOPTION_PLAYBOOK.md
+- **RemoteLaunch case study:** https://github.com/tiegomorallane/ai-adoption-finance-portfolio/blob/main/REMOTELAUNCH_CASE_STUDY.md
 - **Mora Capital Partners:** https://www.moracapitalpartners.com/
 
 ## 50-word bio
@@ -31,15 +30,15 @@ Tiego Morallane is an AI adoption and workflow specialist with experience in ban
 
 ## 100-word bio
 
-Tiego Morallane works at the intersection of financial services, AI adoption, workflow automation, and product delivery. His background spans banking project management, behavioural economics, lending, product economics, and SME funding. He has designed and tested AI-enabled workflows for funding preparation, tender responses, finance intake, job applications, and credit analysis. His approach prioritises approved evidence, transparent limitations, human review, private data boundaries, and end-to-end production verification. Tiego is pursuing remote roles in AI training, adoption, implementation, workflow consulting, evaluation, and product operations where he can help non-technical teams turn AI capability into useful and responsible business practice.
+Tiego Morallane works at the intersection of financial services, AI adoption, workflow automation, and product delivery. His background spans banking project management, behavioural economics, lending, product economics, and SME funding. He has designed and tested AI-enabled workflows for funding preparation, tender responses, finance intake, job applications. His approach prioritises approved evidence, transparent limitations, human review, private data boundaries, and end-to-end owner-journey testing. Tiego is pursuing remote roles in AI training, adoption, implementation, workflow consulting, evaluation, and product operations where he can help non-technical teams turn AI capability into useful and responsible business practice.
 
 ## CV portfolio line
 
-Built and production-tested a portfolio of human-in-the-loop AI workflows across funding preparation, tender analysis, finance intake, career applications, and credit assessment; designed evidence controls, private access boundaries, structured evaluation, and non-technical AI adoption training.
+Built and tested selected owner journeys in a portfolio of human-in-the-loop AI workflows across funding preparation, tender analysis, finance intake, career applications; designed evidence controls and private access boundaries, and created sample AI adoption training material.
 
 ## Interview summary
 
-> I do not position myself as a traditional machine-learning engineer. My strength is translating real business problems—especially in financial services—into AI-enabled workflows that people can understand, review, and use. I have built those workflows, tested them in production, worked through privacy and access controls, and converted the lessons into practical training material.
+> I do not position myself as a traditional machine-learning engineer. My strength is translating real business problems, especially in financial services, into AI-enabled workflows that people can understand, review, and use. I have built those workflows, tested them in production, worked through privacy and access controls, and converted the lessons into practical training material.
 
 ## Accuracy note
 
