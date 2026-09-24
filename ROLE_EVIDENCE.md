@@ -6,7 +6,7 @@ This page helps recruiters connect my experience to AI training, adoption, workf
 
 | Common requirement | Evidence |
 |---|---|
-| Explain AI to non-technical executives | Banking stakeholder work, internal capability building, [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md), and [60-minute workshop](AI_TRAINING_WORKSHOP.md) |
+| Explain AI to non-technical executives | Banking stakeholder work, internal capability building, [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md), and [sample 60-minute workshop](AI_TRAINING_WORKSHOP.md) |
 | Experience in regulated financial services | Standard Bank, Nedbank, Credit Guarantee, Mora Capital, lending and credit workflow experience |
 | Prompt engineering and AI workflows | FundReady, TenderPilot, ClearMatch, RemoteLaunch, and the shared Mora AI Product Engine |
 | Find and prioritise automation opportunities | Mora Automates process-first approach: map the task, evidence, decision, owner, risk, and measurable outcome |
@@ -56,7 +56,6 @@ I am not presenting myself as a senior machine-learning engineer or claiming sol
 
 ## Portfolio links
 
-- [Personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
 - [Portfolio overview](PORTFOLIO.md)
 - [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md)
 - [Recruiter profile](APPLICATION_PROFILE.md)
