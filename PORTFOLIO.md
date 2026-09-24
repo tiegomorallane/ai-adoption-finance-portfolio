@@ -75,21 +75,11 @@ The AI layer is designed to preserve candidate evidence, surface missing require
 
 ---
 
-## 2. AI Credit Analyst
+## 2. AI adoption training samples
 
-**Status:** Public portfolio project; active development.
+The [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) and [sample workshop](AI_TRAINING_WORKSHOP.md) explain task selection, approved evidence, output checks and human review. They demonstrate curriculum design, not a claim of completed client AI training.
 
-An AI-assisted SME credit-assessment platform intended to combine deterministic financial calculations with transparent risk flags and human-reviewed AI support.
-
-Focus areas include:
-
-- explainable credit metrics;
-- scenario analysis;
-- structured credit memo support;
-- transparent assumptions;
-- human decision authority.
-
----
+This repository originally contained an SME credit analysis concept. Any remaining scaffold is exploratory and is not a completed credit assessment platform or part of my production evidence.
 
 ## 3. RemoteLaunch — product evolution case study
 
@@ -137,7 +127,7 @@ The repository remains private while the product is under active development.
 
 Mora Capital Partners gives me direct exposure to real funding, transaction-structuring, and SME workflow problems.
 
-That domain context informs projects such as FundReady, ClearMatch, TenderPilot, and the AI Credit Analyst.
+That domain context informs projects such as FundReady, ClearMatch, TenderPilot, and related finance workflows.
 
 ---
 
