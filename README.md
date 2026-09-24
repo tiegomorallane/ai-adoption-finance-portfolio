@@ -109,6 +109,10 @@ See [AI_ADOPTION_PLAYBOOK.md](AI_ADOPTION_PLAYBOOK.md) for a sample executive-or
 
 Built by **Tiego Morallane** as part of a finance and AI engineering portfolio focused on practical AI adoption, automation, and business workflow design.
 
+- [Personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
+- [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md)
+- [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md)
+
 ## Status
 
 🚧 Active development — portfolio projects are at different stages. Production-verified evidence is explicitly distinguished from planned capability and commercial validation.
