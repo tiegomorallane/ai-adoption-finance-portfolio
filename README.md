@@ -100,6 +100,7 @@ Planned areas include:
 ## Contact
 
 - [Personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
+- [LinkedIn](https://www.linkedin.com/in/tiegomorallane)
 - [Email](mailto:tiego.morallane@gmail.com)
 - [Mora Capital Partners](https://www.moracapitalpartners.com/)
 
