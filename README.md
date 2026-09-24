@@ -1,107 +1,102 @@
-# Tiego Morallane — AI Adoption & Workflow Portfolio
+# Tiego Morallane — AI Adoption, Automation & Financial Services
 
-I am a financial-services professional and hands-on AI product builder focused on helping non-technical teams turn AI capability into useful, controlled business workflows.
+I am a South African finance professional, founder, and hands-on AI workflow builder. I work at the intersection of **financial services, business operations, AI adoption, and product implementation**.
 
-> **What this repository is:** a public evidence hub containing sanitised case studies, an AI adoption playbook, sample training material, and an active-development credit-workflow concept. Commercial source repositories remain private.
+My strength is translating business problems into practical AI-enabled workflows that non-technical teams can understand, use, test, and govern responsibly.
 
-[View my personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
+> This repository is my public evidence hub. It contains sanitised case studies, training material, workflow frameworks, and implementation lessons. Commercial production code and customer information remain private.
 
 ## Start here
 
 | Evidence | What it demonstrates |
 |---|---|
-| [Portfolio overview](PORTFOLIO.md) | Product thinking, workflow architecture, controls, and production lessons |
+| [Portfolio overview](PORTFOLIO.md) | AI product thinking, workflow architecture, business controls, and production lessons |
 | [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md) | A grounded, human-reviewed AI career workflow |
-| [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | How I explain responsible AI adoption to business teams |
-| [60-minute workshop](AI_TRAINING_WORKSHOP.md) | Training design, exercises, facilitation, and evaluation |
-| [Recruiter profile](APPLICATION_PROFILE.md) | Role positioning, professional bios, and interview summary |
-| [Role evidence matrix](ROLE_EVIDENCE.md) | Direct mapping from target-role requirements to portfolio proof |
+| [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | Practical guidance for responsible AI adoption |
+| [60-minute workshop](AI_TRAINING_WORKSHOP.md) | Training design, facilitation, exercises, and evaluation |
+| [Role evidence matrix](ROLE_EVIDENCE.md) | Mapping between target roles and demonstrated experience |
+| [Application profile](APPLICATION_PROFILE.md) | Professional positioning and interview narrative |
 
-## What I have built
+## Selected work
 
-### Mora Automates / Mora AI Product Engine — private production portfolio
+### Mora AI Product Engine
 
-Through **Mora Automates**, I design AI-native business systems. The core product portfolio is built on a shared **Mora AI Product Engine** supporting four AI-enabled workflows:
+Through **Mora Automates**, I have designed a shared engine supporting four AI-enabled products:
 
-- **FundReady AI:** evidence-led funding preparation and missing-information analysis.
-- **TenderPilot:** tender requirement extraction, evidence checks, and source-grounded drafting.
-- **ClearMatch:** structured finance intake with consent and protected manual review.
-- **RemoteLaunch:** job-specific application preparation grounded in a reviewed CV and job description.
+- **FundReady AI** — evidence-led funding preparation and missing-information analysis.
+- **TenderPilot** — tender requirement extraction, evidence checks, and source-grounded drafting.
+- **ClearMatch** — structured finance intake, consent, qualification, and protected human review.
+- **RemoteLaunch** — job-specific application preparation grounded in an approved CV and job description.
 
-Selected owner journeys have been tested in production. The platform uses authenticated access, private storage, product-scoped entitlements, server-side AI orchestration, structured validation, human review, persistence, and export.
+The platform includes authenticated access, private storage, product-level entitlements, server-side AI orchestration, structured validation, human review, persistence, and export.
 
-The commercial source repository remains private. [Read the sanitised case study](PORTFOLIO.md).
+The commercial source code remains private, but the public case studies explain the problems, workflows, safeguards, testing approach, and implementation lessons.
 
-### RemoteLaunch — production-verified owner journey
+### RemoteLaunch
 
-Verified workflow:
+RemoteLaunch helps South African professionals prepare stronger applications for international remote roles.
 
-**profile/CV → job description → grounded application pack → human review → approval → export → tracker → saved-state reload**
+The verified workflow covers:
 
-The system is designed to surface missing evidence rather than invent qualifications, achievements, software experience, or work authorisation.
+**CV and profile → job description → grounded application pack → human review → approval → export → application tracker → saved-state reload**
+
+A central design rule is that missing evidence stays visible. The system does not invent qualifications, achievements, software experience, or work authorisation.
 
 [Read the RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md).
 
-### Apttick — private product build
+### Mora Capital Partners
 
-A separate AI and automation project used to develop practical experience in product engineering, workflow automation, infrastructure, and secure data boundaries. Its implementation remains private while the product is refined.
+My finance and advisory work provides direct exposure to SME funding, transaction preparation, lender requirements, customer communication, commercial analysis, and operational risk.
 
-### Mora Capital Partners — live commercial context
+That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance-focused workflows.
 
-My finance and advisory business gives me direct exposure to SME documentation, transaction preparation, funding workflows, customer communication, and operational risk. That domain experience informs FundReady, ClearMatch, TenderPilot, and the credit-workflow concept.
+### Apttick
 
-## About the “AI Credit Analyst”
+A separate private AI and automation product used to develop practical experience in workflow implementation, product engineering, infrastructure, data security, and operational controls.
 
-This repository originally began as a concept for an AI-assisted SME credit workflow.
+## How I approach AI adoption
 
-The intended product would combine deterministic financial calculations, scenario analysis, transparent risk flags, and human-reviewed credit-memo support.
-
-**Important:** the credit application is not presented as a completed product. Its current capabilities are planned, and the repository presently functions primarily as my public portfolio and training evidence hub.
-
-Planned areas include:
-
-- borrower and financial-data capture;
-- profitability, leverage, liquidity, and debt-service metrics;
-- base, upside, and downside scenarios;
-- transparent rule-based risk flags;
-- AI-assisted memo drafting;
-- auditable assumptions and human approval.
+1. Start with a real business outcome.
+2. Define the source evidence the AI may use.
+3. Turn one-off prompts into repeatable workflows.
+4. Keep material decisions with accountable humans.
+5. Test clarity, accuracy, edge cases, and unsupported claims.
+6. Protect sensitive data and restrict access appropriately.
+7. Measure whether the workflow improves an actual business process.
 
 ## What I can help a team do
 
-- identify high-value, appropriate AI use cases;
-- turn prompts into repeatable workflows;
-- define evidence and output boundaries;
-- place human review and escalation correctly;
-- test AI outputs for unsupported claims and edge cases;
-- explain AI systems to non-technical stakeholders;
-- connect AI implementation to business outcomes and controls.
+- identify valuable and appropriate AI use cases;
+- translate business requirements into practical AI workflows;
+- train non-technical teams to use AI confidently;
+- build prompt, evidence, review, and escalation standards;
+- evaluate outputs for hallucinations and unsupported claims;
+- design human-in-the-loop operating processes;
+- connect AI implementation to commercial outcomes and controls;
+- communicate technical concepts clearly to executives and operational teams.
 
-## Responsible AI principles
+## Professional background
 
-1. **AI drafts; humans decide.**
-2. Material claims should be traceable to approved evidence.
-3. Missing information should remain visible rather than be invented.
-4. Sensitive information belongs behind appropriate access controls.
-5. Technical output is not the same as a validated business outcome.
-6. Product claims must distinguish verified functionality from planned work.
+Before founding Mora Capital Partners and Mora Automates, I worked across behavioural economics, project management, product economics, and banking transformation at Standard Bank and Nedbank.
 
-## Roles I am targeting
+This combination of finance, behavioural insight, project delivery, entrepreneurship, and hands-on AI implementation is the perspective I bring to AI adoption work.
+
+## Roles of interest
 
 - AI Trainer / AI Coach
 - AI Adoption Specialist
-- AI Workflow or Automation Consultant
+- AI Automation or Workflow Consultant
 - AI Implementation Specialist
-- AI Evaluator
 - AI Product Operations
+- AI Evaluator
 - AI Solutions Consultant
 - Financial-services AI Enablement
 
 ## Contact
 
-- [Personal portfolio](https://tiego-ai-portfolio.monty08.chatgpt.site)
 - [LinkedIn](https://www.linkedin.com/in/tiegomorallane)
 - [Email](mailto:tiego.morallane@gmail.com)
 - [Mora Capital Partners](https://www.moracapitalpartners.com/)
 
-Built by **Tiego Morallane** in Johannesburg, South Africa. Available for remote international opportunities.
+**Tiego Morallane**  
+Johannesburg, South Africa · Open to remote international opportunities
