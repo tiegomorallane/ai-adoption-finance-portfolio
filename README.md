@@ -103,7 +103,9 @@ Across my portfolio I use the same baseline principles:
 
 I am also packaging these implementation lessons into practical training material for non-technical teams, especially in financial services.
 
-See [AI_ADOPTION_PLAYBOOK.md](AI_ADOPTION_PLAYBOOK.md) for a sample executive-oriented training framework.
+See the [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) and [60-minute workshop](AI_TRAINING_WORKSHOP.md) for sample executive-oriented training material.
+
+For recruiters, [APPLICATION_PROFILE.md](APPLICATION_PROFILE.md) contains my target-role positioning, short bios, CV portfolio line, and interview summary.
 
 ## Author
 
