@@ -1,8 +1,8 @@
-# Tiego Morallane — AI Adoption, Automation & Financial Services
+# Tiego Morallane: AI Adoption, Automation and Financial Services
 
-I am a South African finance professional, founder, and hands-on AI workflow builder. I work at the intersection of **financial services, business operations, AI adoption, and product implementation**.
+I am a South African finance professional, founder, and practical AI workflow builder. I work at the intersection of **financial services, business operations, AI adoption, and product implementation**.
 
-My strength is translating business problems into practical AI-enabled workflows that non-technical teams can understand, use, test, and govern responsibly.
+My strength is translating business problems into practical AI supported workflows that non-technical teams can understand, use, test, and govern responsibly.
 
 > This repository is my public evidence hub. It contains sanitised case studies, training material, workflow frameworks, and implementation lessons. Commercial production code and customer information remain private.
 
@@ -23,12 +23,12 @@ My strength is translating business problems into practical AI-enabled workflows
 
 Through **Mora Automates**, I have designed a shared engine supporting four AI-enabled products:
 
-- **FundReady AI** — evidence-led funding preparation and missing-information analysis.
-- **TenderPilot** — tender requirement extraction, evidence checks, and source-grounded drafting.
-- **ClearMatch** — structured finance intake, consent, qualification, and protected human review.
-- **RemoteLaunch** — job-specific application preparation grounded in an approved CV and job description.
+- **FundReady AI**: evidence-led funding preparation and missing-information analysis.
+- **TenderPilot**: tender requirement extraction, evidence checks, and source-grounded drafting.
+- **ClearMatch**: structured finance intake, consent, qualification, and protected human review.
+- **RemoteLaunch**: job-specific application preparation grounded in an approved CV and job description.
 
-The platform includes authenticated access, private storage, product-level entitlements, server-side AI orchestration, structured validation, human review, persistence, and export.
+The platform includes authenticated access, private storage, product access entitlements, secure AI orchestration, structured validation, human review, persistence, and export.
 
 The commercial source code remains private, but the public case studies explain the problems, workflows, safeguards, testing approach, and implementation lessons.
 
@@ -48,7 +48,7 @@ A central design rule is that missing evidence stays visible. The system does no
 
 My finance and advisory work provides direct exposure to SME funding, transaction preparation, lender requirements, customer communication, commercial analysis, and operational risk.
 
-That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance-focused workflows.
+That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance workflows workflows.
 
 ### Apttick
 
@@ -71,7 +71,7 @@ A separate private AI and automation product used to develop practical experienc
 - train non-technical teams to use AI confidently;
 - build prompt, evidence, review, and escalation standards;
 - evaluate outputs for hallucinations and unsupported claims;
-- design human-in-the-loop operating processes;
+- design human review operating processes;
 - connect AI implementation to commercial outcomes and controls;
 - communicate technical concepts clearly to executives and operational teams.
 
