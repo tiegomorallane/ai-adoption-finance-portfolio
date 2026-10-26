@@ -1,5 +1,13 @@
 # RemoteLaunch — AI Product Evolution Case Study
 
+## Current public product — 26 October 2026
+
+The current live storefront at https://remotelaunch.co.za sells the **R250 SA-to-Remote Job Application Kit**. It presents 29 customer deliverables, eight quality-gated stages, and editable Word, searchable PDF and Excel resources.
+
+A fresh browser journey verified product page → one R250 kit in cart → Shopify checkout with the correct item, total and Yoco. No purchase or new download fulfilment was performed.
+
+The current Workspace link displays a **coming-soon waitlist**. The AI workspace description below documents product development and earlier owner tests; it is not the product being sold or demonstrated in the current public walkthrough.
+
 ## Overview
 
 RemoteLaunch is a career-tech product for South Africans and emerging-market professionals pursuing international remote roles.
