@@ -1,4 +1,4 @@
-# AI Adoption & Automation Portfolio
+# AI Product Development, Adoption & Automation Portfolio
 
 ## Tiego Morallane
 
@@ -113,9 +113,13 @@ The useful product was not “AI writes a CV.” The useful product was the **co
 
 ## 4. Apttick
 
-**Status:** Private product/automation project.
+**Status:** Private sales-first pilot baseline.
 
-Apttick is a separate AI and automation build used to explore product engineering, workflow automation, infrastructure, and AI-enabled operations.
+AptTick connects readiness assessment, learning, guided practice and opportunity/placement-tracking workflows. Its monorepo separates learner and admin applications and shares assessment, AI, database, email and UI packages.
+
+The documented stack includes Next.js 14, TypeScript, tRPC, Prisma, Tailwind, Turborepo, NextAuth and Supabase. Placement tracking remains groundwork; learner outcomes and accreditation scope are not independently verified by this portfolio.
+
+[Read the AptTick case study](APTTICK_CASE_STUDY.md).
 
 The repository remains private while the product is under active development.
 
