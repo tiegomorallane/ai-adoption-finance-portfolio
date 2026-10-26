@@ -32,11 +32,27 @@ I use Codex and Claude Code to assist implementation. My contribution includes p
 
 For a walkthrough, I focus on the actual learner journey and explain the decisions I made. Features should only be described as demonstrated when they work in the recording.
 
+## Live verification — 26 October 2026
+
+Live application: https://apttick.co.za
+
+Using an existing test learner account, a browser check verified:
+- sign-in and the learner dashboard;
+- a live AI coach reply to a price-objection prompt;
+- conversation persistence after reload;
+- the Thabo customer role-play across three user messages and adaptive customer replies;
+- automatic practice feedback: 87/100, with evidence quotations and separate closing/objection-handling feedback;
+- persisted feedback after reload;
+- the first KM-01 lesson, with learning outcomes, activities and evidence guidance;
+- the 54-item assessment entry page and its consent boundary.
+
+The 87/100 result is a synthetic demonstration, not a claim of a real learner's competence. The full questionnaire was not submitted, lessons were not marked complete, and no placement was created.
+
 ## Current evidence and limits
 
 The README describes an active launch baseline containing learner/admin dashboard flows, readiness assessment, QCTO curriculum structure, guided practice/coach flows, and partner opportunity and placement-tracking groundwork.
 
-It explicitly describes the product as unfinished. This review did not execute its tests, authenticate into the live product or verify learner outcomes.
+It explicitly describes the product as unfinished. The live checks above authenticated into the product. This review did not execute the automated test suite or verify learner outcomes.
 
 ## Suggested demonstration
 
