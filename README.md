@@ -10,10 +10,20 @@ This public portfolio explains selected projects. Commercial source code and cus
 
 | Project | Product problem | Engineering evidence | Status |
 |---|---|---|---|
-| [AptTick](APTTICK_CASE_STUDY.md) | Connect sales readiness, learning and practice with opportunity workflows | Next.js, TypeScript, tRPC, Prisma, shared assessment and AI packages, learner/admin applications | Active pilot baseline; placement and earnings outcomes are not verified here |
+| [AptTick](APTTICK_CASE_STUDY.md) | Connect sales readiness, learning and practice with opportunity workflows | Next.js, TypeScript, tRPC, Prisma, shared assessment and AI packages, learner/admin applications | Live at [apttick.co.za](https://apttick.co.za); learner login, AI coaching and role-play with feedback verified on 26 October 2026 |
 | [Mora AI Product Engine](PORTFOLIO.md) | Reuse secure infrastructure across evidence-led AI workspaces | Supabase Auth, row-level security, private storage, entitlements, server-side AI, structured validation, review, export and persistence | Selected owner journeys documented as production-tested; payment-to-access verification remains outstanding |
-| [RemoteLaunch](REMOTELAUNCH_CASE_STUDY.md) | Help South African professionals prepare for international remote opportunities | Offline toolkit evolved into an authenticated, grounded AI preparation workflow | Published storefront/software offer recorded in the engine handoff; no claim of verified software purchase-to-access fulfilment |
+| [RemoteLaunch](REMOTELAUNCH_CASE_STUDY.md) | Help South African professionals prepare for international remote opportunities | Offline toolkit evolved into an authenticated, grounded AI preparation workflow | Live R250 kit at [remotelaunch.co.za](https://remotelaunch.co.za); product → cart → checkout verified on 26 October 2026; workspace currently presented as coming soon |
 | [Mora Capital Partners](https://www.moracapitalpartners.com/) | Help businesses prepare funding transactions | Commercial domain knowledge informing workflow and product decisions | Supporting business context |
+
+## Live demonstration — checked 26 October 2026
+
+The current walkthrough focuses on **AptTick → RemoteLaunch → Mora Capital Partners**.
+
+- **AptTick:** signed into a test learner account, generated a live AI coaching response, completed a three-turn AI customer role-play, received 87/100 practice feedback with quoted evidence, and confirmed the conversation and feedback survived reload. A curriculum lesson and the assessment entry page also loaded. The score is synthetic practice evidence, not a learner outcome or qualification.
+- **RemoteLaunch:** the current live offer is the R250 digital kit. Product → cart → Shopify checkout showed one correct kit, R250 total and Yoco. No purchase was made. The workspace link currently presents a coming-soon waitlist, superseding the older engine publication notes for this public walkthrough.
+- **Mora Capital Partners:** homepage, founder, Automates page and audit enquiry modal loaded. One labelled synthetic enquiry received an on-screen success confirmation. Inbox receipt and delivery of the overview were not verified.
+
+[Recording sequence and verification limits](LIVE_DEMO_RUNBOOK.md)
 
 ## Start here
 
@@ -38,9 +48,9 @@ For AI workflows, missing evidence should stay visible. Outputs require human re
 
 ## Evidence boundaries
 
-Repository documentation supports the architecture and product descriptions above. This portfolio refresh is a documentation review, not a fresh execution of application tests or a live-site audit. Historical owner testing is not proof of customer adoption, placement success or revenue.
+Architecture descriptions are supported by repository documentation. The live checks above are browser verification of specific journeys, not a complete test-suite run or proof of customer adoption, placement success or revenue.
 
-The engine's current handoff records a public RemoteLaunch software offer and deployed Shopify webhook handling, while its older README describes an earlier commerce checkpoint. Paid-order → entitlement → activation email → same-email access remains unverified in that handoff.
+The engine's September handoff records an earlier public RemoteLaunch software offer. The current storefront observed on 26 October instead presents the workspace as coming soon. The engine is supporting development evidence, not part of the current live product demonstration.
 
 The training workshop is sample curriculum, not a claim of delivered client training.
 
