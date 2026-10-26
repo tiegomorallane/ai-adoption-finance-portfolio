@@ -1,106 +1,55 @@
-# Tiego Morallane: AI Adoption, Automation and Financial Services
+# Tiego Morallane — AI Product Development & Implementation
 
-I am a South African finance professional, founder, and practical AI workflow builder. I work at the intersection of **financial services, business operations, AI adoption, and product implementation**.
+Johannesburg, South Africa · Financial services, behavioural economics and AI-assisted product development.
 
-My strength is translating business problems into practical AI supported workflows that non-technical teams can understand, use, test, and govern responsibly.
+I use ChatGPT, Codex and Claude Code to turn business problems into working digital products. My work spans product scope, user journeys, implementation with AI coding tools, acceptance criteria, testing and deployment review.
 
-> This repository is my public evidence hub. It contains sanitised case studies, training material, workflow frameworks, and implementation lessons. Commercial production code and customer information remain private.
+This public portfolio explains selected projects. Commercial source code and customer information remain private.
+
+## Selected products
+
+| Project | Product problem | Engineering evidence | Status |
+|---|---|---|---|
+| [AptTick](APTTICK_CASE_STUDY.md) | Connect sales readiness, learning and practice with opportunity workflows | Next.js, TypeScript, tRPC, Prisma, shared assessment and AI packages, learner/admin applications | Active pilot baseline; placement and earnings outcomes are not verified here |
+| [Mora AI Product Engine](PORTFOLIO.md) | Reuse secure infrastructure across evidence-led AI workspaces | Supabase Auth, row-level security, private storage, entitlements, server-side AI, structured validation, review, export and persistence | Selected owner journeys documented as production-tested; payment-to-access verification remains outstanding |
+| [RemoteLaunch](REMOTELAUNCH_CASE_STUDY.md) | Help South African professionals prepare for international remote opportunities | Offline toolkit evolved into an authenticated, grounded AI preparation workflow | Published storefront/software offer recorded in the engine handoff; no claim of verified software purchase-to-access fulfilment |
+| [Mora Capital Partners](https://www.moracapitalpartners.com/) | Help businesses prepare funding transactions | Commercial domain knowledge informing workflow and product decisions | Supporting business context |
 
 ## Start here
 
-| Evidence | What it demonstrates |
-|---|---|
-| [Portfolio overview](PORTFOLIO.md) | AI product thinking, workflow architecture, business controls, and production lessons |
-| [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md) | A grounded, human-reviewed AI career workflow |
-| [AI Adoption Playbook](AI_ADOPTION_PLAYBOOK.md) | Practical guidance for responsible AI adoption |
-| [Sample 60-minute workshop](AI_TRAINING_WORKSHOP.md) | Workshop structure, exercises, and an evaluation plan |
-| [Role evidence matrix](ROLE_EVIDENCE.md) | Mapping between target roles and demonstrated experience |
-| [Application profile](APPLICATION_PROFILE.md) | Professional positioning and interview narrative |
+- [Product portfolio and architecture](PORTFOLIO.md)
+- [AptTick case study](APTTICK_CASE_STUDY.md)
+- [RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md)
+- [AI implementation playbook](AI_ADOPTION_PLAYBOOK.md)
+- [Sample workshop](AI_TRAINING_WORKSHOP.md)
+- [Role evidence matrix](ROLE_EVIDENCE.md)
+- [Application profile](APPLICATION_PROFILE.md)
 
-## Selected work
+## How I build
 
-### Mora AI Product Engine
+1. Define the user problem and useful outcome.
+2. Map inputs, decisions, access rules and the complete user journey.
+3. Use AI coding tools to support implementation and debugging.
+4. Review the resulting behaviour against acceptance criteria.
+5. Check evidence handling, access controls, errors and saved-state recovery.
+6. Distinguish implemented features, deployed behaviour and verified customer journeys.
 
-Through **Mora Automates**, I have designed a shared engine supporting four AI-enabled products:
+For AI workflows, missing evidence should stay visible. Outputs require human review, and account creation or a checkout redirect must never be treated as proof of paid access.
 
-- **FundReady AI**: evidence-led funding preparation and missing-information analysis.
-- **TenderPilot**: tender requirement extraction, evidence checks, and source-grounded drafting.
-- **ClearMatch**: structured finance intake, consent, qualification, and protected human review.
-- **RemoteLaunch**: job-specific application preparation grounded in an approved CV and job description.
+## Evidence boundaries
 
-The platform includes authenticated access, private storage, product access entitlements, secure AI orchestration, structured validation, human review, persistence, and export.
+Repository documentation supports the architecture and product descriptions above. This portfolio refresh is a documentation review, not a fresh execution of application tests or a live-site audit. Historical owner testing is not proof of customer adoption, placement success or revenue.
 
-The commercial source code remains private, but the public case studies explain the problems, workflows, safeguards, testing approach, and implementation lessons.
+The engine's current handoff records a public RemoteLaunch software offer and deployed Shopify webhook handling, while its older README describes an earlier commerce checkpoint. Paid-order → entitlement → activation email → same-email access remains unverified in that handoff.
 
-### RemoteLaunch
+The training workshop is sample curriculum, not a claim of delivered client training.
 
-RemoteLaunch helps South African professionals prepare stronger applications for international remote roles.
+## Background and opportunities
 
-The owner-tested workflow covers:
-
-**CV and profile → job description → grounded application pack → human review → approval → export → application tracker → saved-state reload**
-
-A central design rule is that missing evidence stays visible. The workflow is designed to flag missing evidence rather than invent qualifications, achievements, software experience or work authorisation. Outputs still require human review.
-
-[Read the RemoteLaunch case study](REMOTELAUNCH_CASE_STUDY.md).
-
-### Mora Capital Partners
-
-My finance and advisory work provides direct exposure to SME funding, transaction preparation, lender requirements, customer communication, commercial analysis, and operational risk.
-
-That domain experience informs the design of FundReady, ClearMatch, TenderPilot, and other finance workflows.
-
-### Apttick
-
-A separate private AI and automation product used to develop practical experience in workflow implementation, product engineering, infrastructure, data security, and operational controls.
-
-## How I approach AI adoption
-
-1. Start with a real business outcome.
-2. Define the source evidence the AI may use.
-3. Turn one-off prompts into repeatable workflows.
-4. Keep material decisions with accountable humans.
-5. Test clarity, accuracy, edge cases, and unsupported claims.
-6. Protect sensitive data and restrict access appropriately.
-7. Measure whether the workflow improves an actual business process.
-
-## What I can help a team do
-
-- identify valuable and appropriate AI use cases;
-- translate business requirements into practical AI workflows;
-- train non-technical teams to use AI confidently;
-- build prompt, evidence, review, and escalation standards;
-- evaluate outputs for hallucinations and unsupported claims;
-- design human review operating processes;
-- connect AI implementation to commercial outcomes and controls;
-- communicate technical concepts clearly to executives and operational teams.
-
-## Evidence and current limits
-
-I use Codex and Claude Code to assist implementation. My contribution includes product scope, workflow decisions, acceptance criteria, testing and review. Selected owner journeys have been tested in production; that is not evidence of customer adoption or a fully verified payment and fulfilment journey. The workshop is a sample curriculum, not a claim of delivered AI client training.
-
-## Professional background
-
-Before founding Mora Capital Partners and Mora Automates, I worked across behavioural economics, project management, product economics, and banking transformation at Standard Bank and Nedbank.
-
-This combination of finance, behavioural insight, project delivery, entrepreneurship, and hands-on AI implementation is the perspective I bring to AI adoption work.
-
-## Roles of interest
-
-- AI Trainer / AI Coach
-- AI Adoption Specialist
-- AI Automation or Workflow Consultant
-- AI Implementation Specialist
-- AI Product Operations
-- AI Evaluator
-- AI Solutions Consultant
-- Financial-services AI Enablement
+My background combines banking, behavioural economics, project delivery and founding Mora Capital Partners. I am interested in AI Product Developer, AI Implementation, workflow automation and technical product roles, alongside AI adoption and training opportunities.
 
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/tiegomorallane)
 - [Email](mailto:tiego.morallane@gmail.com)
 - [Mora Capital Partners](https://www.moracapitalpartners.com/)
-
-**Tiego Morallane**  
-Johannesburg, South Africa · Open to remote international opportunities
