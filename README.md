@@ -9,6 +9,12 @@ I combine banking and behavioural economics, cross-functional product delivery, 
 
 Currently open to **international remote opportunities** in AI implementation, workflow automation, AI-enabled product / project delivery, digital operations and business transformation.
 
+## For finance and investment teams
+
+Explore my **[finance & investment overview](FINANCE_AND_INVESTMENT.md)** for banking experience, Mora Capital's financing-readiness work, commercial outcomes and relevance to research, due diligence support and portfolio operations. My AI implementation work remains below.
+
+Also open to finance and investment-support opportunities where commercial analysis, disciplined documentation and technology can contribute.
+
 ## Start here: the most demonstrable build
 
 ### [AptTick](https://apttick.co.za) · AI coaching, simulated practice and feedback
